@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## cra-forforf
+
+[cra-forforf](https://github.com/forforf/cra-forforf) is almost a clone of the base Create React App. The only difference is that the CRA Landing Page 
+was moved to its own component and organized how I prefer to organize my components.
+
 ## Available Scripts
 
 In the project directory, you can run:
