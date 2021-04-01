@@ -7,6 +7,33 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [cra-forforf](https://github.com/forforf/cra-forforf) is almost a clone of the base Create React App. The only difference is that the CRA Landing Page 
 was moved to its own component and organized how I prefer to organize my components.
 
+## Installation
+
+Using `cra-forforf` to create a new project called `my-new-project`
+
+1. Clone repo
+```
+git clone https://github.com/forforf/cra-forforf.git my-new-project
+cd my-new-project
+```
+
+2. Update package.json
+
+edit `package.json` name field to `my-new-project`
+```
+{
+  "name": "my-new-project",
+  "version": "0.1.0",
+  ...
+
+```
+
+3. Install dependencies and start
+```
+npm install
+npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
