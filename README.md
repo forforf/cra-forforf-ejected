@@ -1,5 +1,9 @@
 # CRA-Forforf
 
+## Archived
+The intent of this repo was to keep an ejected CRA up to date using dependabot. That way I could create new react projects from an ejected working version.
+However, CRA is past it's shelf life, and tooling has improved so that creating React Apps is not as painful as it once was.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## cra-forforf
